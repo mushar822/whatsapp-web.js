@@ -79,7 +79,7 @@ For further details on saving and restoring sessions, explore the provided [Auth
 | Receive media (images/audio/video/documents)  | ✅  |
 | Send contact cards | ✅ |
 | Send location | ✅ |
-| Send buttons | ❌  [(DEPRECATED)][deprecated-video] |
+| Send buttons | ❌  [()][-video] |
 | Send lists | ❌  [(DEPRECATED)][deprecated-video] |
 | Receive location | ✅ | 
 | Message replies | ✅ |
